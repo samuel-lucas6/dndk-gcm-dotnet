@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Version>1.0.0</Version>
+        <Authors>Samuel Lucas</Authors>
+        <Description>A .NET implementation of Double Nonce Derive Key AES-GCM (DNDK-GCM).</Description>
+        <Copyright>Copyright (c) 2024 Samuel Lucas</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/samuel-lucas6/dndk-gcm-dotnet</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/samuel-lucas6/dndk-gcm-dotnet</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>aes-gcm aes-256 aes dndk dndk-gcm double-nonce double-nonce-derive-key extended-nonce key-commitment key-committing</PackageTags>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+</Project>

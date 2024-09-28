@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DndkGcmDotNet", "DndkGcmDotNet\DndkGcmDotNet.csproj", "{9810C945-92A6-493A-A1C9-795BE95509F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DndkGcmDotNet.Tests", "DndkGcmDotNet.Tests\DndkGcmDotNet.Tests.csproj", "{E3311EE5-7E1A-4B54-9A66-81B3676CCA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9810C945-92A6-493A-A1C9-795BE95509F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9810C945-92A6-493A-A1C9-795BE95509F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9810C945-92A6-493A-A1C9-795BE95509F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9810C945-92A6-493A-A1C9-795BE95509F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3311EE5-7E1A-4B54-9A66-81B3676CCA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3311EE5-7E1A-4B54-9A66-81B3676CCA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3311EE5-7E1A-4B54-9A66-81B3676CCA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3311EE5-7E1A-4B54-9A66-81B3676CCA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
